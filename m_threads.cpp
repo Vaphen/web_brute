@@ -1,7 +1,7 @@
-#include <vector>	// std::vector
-#include <thread>	// std::thread
+#include <vector>	      // std::vector
+#include <thread>	      // std::thread
 #include <cmath>
-#include "m_threads.h" // Header
+#include "m_threads.h"  // Header
 #include "brute.h"     	// bruteforcing
 
 m_threads::m_threads() : Param() {}
